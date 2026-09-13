@@ -1,4 +1,4 @@
-# Unity Grid Building System
+# Unity Grid Placement System
 
 این پروژه یک سیستم ساده و قابل توسعه برای **ساخت‌وساز (Building System) مبتنی بر Grid در Unity** است. بازیکن می‌تواند اشیاء مختلف را روی خانه‌های Grid قرار دهد، اعتبار محل قرارگیری را مشاهده کند و در صورت نیاز اشیاء ساخته‌شده را حذف کند.
 
@@ -299,23 +299,6 @@ Scripts
 │
 └── ObjectsDatabaseSO.cs
 ```
-
----
-
-# 🚀 Future Improvements
-
-برخی قابلیت‌هایی که می‌توان در آینده به سیستم اضافه کرد:
-
-- چرخاندن Object قبل از Placement
-- Undo / Redo System
-- ذخیره و Load کردن ساختمان‌ها
-- سیستم هزینه و منابع
-- Object Selection
-- ارتقای سیستم Preview
-- پشتیبانی از چند Layer مختلف
-- پشتیبانی از Buildingهای پیچیده‌تر
-- استفاده از New Input System
-- بهینه‌سازی سیستم برای پروژه‌های بزرگ‌تر
 
 ---
 
