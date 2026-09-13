@@ -302,23 +302,6 @@ Scripts
 
 ---
 
-# 🚀 Future Improvements
-
-برخی قابلیت‌هایی که می‌توان در آینده به سیستم اضافه کرد:
-
-- چرخاندن Object قبل از Placement
-- Undo / Redo System
-- ذخیره و Load کردن ساختمان‌ها
-- سیستم هزینه و منابع
-- Object Selection
-- ارتقای سیستم Preview
-- پشتیبانی از چند Layer مختلف
-- پشتیبانی از Buildingهای پیچیده‌تر
-- استفاده از New Input System
-- بهینه‌سازی سیستم برای پروژه‌های بزرگ‌تر
-
----
-
 # 📌 Summary
 
 این پروژه یک سیستم **Grid-Based Building System** برای Unity است که امکان قرار دادن و حذف Objectها را روی Grid فراهم می‌کند. معماری سیستم به گونه‌ای طراحی شده که بخش‌های مختلف مانند Input، Preview، Data Management، Object Placement و Sound Feedback از یکدیگر جدا باشند.
